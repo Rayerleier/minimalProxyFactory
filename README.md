@@ -67,3 +67,4 @@ $ cast --help
 # -
 # -
 # -
+# minimalProxyFactory
